@@ -1203,6 +1203,176 @@ export default new Vuex.Store({
         ],
         comments:[]
       },
+      {
+        id: 59,
+        title: 'Школа №1',
+        mapUrl: '<iframe src="https://yandex.ru/map-widget/v1/-/CLbErO-8" width="100%" height="400" frameborder="1" allowfullscreen="true" style="position:relative;"></iframe>',
+        description: 'Второе здание',
+        images:[
+          {
+            url: require('../assets/images/59/1.jpg'),
+            source: 'https://pastvu.com/p/1088621'
+          },
+          {
+            url: require('../assets/images/59/2.jpg'),
+            source: 'https://pastvu.com/p/1088616'
+          },
+          {
+            url: require('../assets/images/59/3.jpg'),
+            source: 'https://pastvu.com/p/1088628'
+          },
+        ],
+        comments:[]
+      },
+      {
+        id: 60,
+        title: 'ул. им Журнала Смена 2',
+        mapUrl: '<iframe src="https://yandex.ru/map-widget/v1/-/CLbIiV7R" width="100%" height="400" frameborder="1" allowfullscreen="true" style="position:relative;"></iframe>',
+        description: 'Строение 26',
+        images:[
+          {
+            url: require('../assets/images/60/1.jpg'),
+            source: 'https://pastvu.com/p/1360734'
+          },
+          {
+            url: require('../assets/images/60/2.jpg'),
+            source: 'https://pastvu.com/p/1236300'
+          },
+        ],
+        comments:[]
+      },
+      {
+        id: 61,
+        title: 'пр. Губкина 3',
+        mapUrl: '<iframe src="https://yandex.ru/map-widget/v1/-/CLbIqHnt" width="100%" height="400" frameborder="1" allowfullscreen="true" style="position:relative;"></iframe>',
+        description: 'Общежитие Автомобилист, строение 63',
+        images:[
+          {
+            url: require('../assets/images/61/1.jpg'),
+            source: 'https://pastvu.com/p/1315802'
+          },
+          {
+            url: require('../assets/images/61/2.jpg'),
+            source: 'https://pastvu.com/p/1144524'
+          },
+          {
+            url: require('../assets/images/61/3.jpg'),
+            source: 'https://pastvu.com/p/1117806'
+          },
+        ],
+        comments:[]
+      },
+      {
+        id: 62,
+        title: 'пр. Губкина 1',
+        mapUrl: '<iframe src="https://yandex.ru/map-widget/v1/-/CLbIyM1F" width="100%" height="400" frameborder="1" allowfullscreen="true" style="position:relative;"></iframe>',
+        description: 'Взрослая библиотека',
+        images:[
+          {
+            url: require('../assets/images/62/1.jpg'),
+            source: 'https://pastvu.com/p/1389706'
+          },
+          {
+            url: require('../assets/images/62/2.jpg'),
+            source: 'https://pastvu.com/p/1639880'
+          },
+          {
+            url: require('../assets/images/62/3.jpg'),
+            source: 'https://pastvu.com/p/1390642'
+          },
+          {
+            url: require('../assets/images/62/4.jpg'),
+            source: 'https://pastvu.com/p/1390184'
+          },
+        ],
+        comments:[]
+      },
+      {
+        id: 63,
+        title: 'Памятный знак',
+        mapUrl: '<iframe src="https://yandex.ru/map-widget/v1/-/CLbI6W7~" width="100%" height="400" frameborder="1" allowfullscreen="true" style="position:relative;"></iframe>',
+        description: 'Уренгой - Всесоюзная ударная комсомольская стройка',
+        images:[
+          {
+            url: require('../assets/images/63/1.jpg'),
+            source: 'https://pastvu.com/p/1639880'
+          },
+        ],
+        comments:[]
+      },
+      {
+        id: 64,
+        title: 'Роддом',
+        mapUrl: '<iframe src="https://yandex.ru/map-widget/v1/-/CLbIbR2T" width="100%" height="400" frameborder="1" allowfullscreen="true" style="position:relative;"></iframe>',
+        description: '',
+        images:[
+          {
+            url: require('../assets/images/64/1.jpg'),
+            source: 'https://pastvu.com/p/1121336'
+          },
+          {
+            url: require('../assets/images/64/2.jpg'),
+            source: 'https://pastvu.com/p/1347348'
+          },
+        ],
+        comments:[]
+      },
+      {
+        id: 64,
+        title: 'Роддом',
+        mapUrl: '<iframe src="https://yandex.ru/map-widget/v1/-/CLbIbR2T" width="100%" height="400" frameborder="1" allowfullscreen="true" style="position:relative;"></iframe>',
+        description: '',
+        images:[
+          {
+            url: require('../assets/images/64/1.jpg'),
+            source: 'https://pastvu.com/p/1121336'
+          },
+          {
+            url: require('../assets/images/64/2.jpg'),
+            source: 'https://pastvu.com/p/1347348'
+          },
+        ],
+        comments:[]
+      },
+      {
+        id: 65,
+        title: 'ул. Железнодорожная 8',
+        mapUrl: '<iframe src="https://yandex.ru/map-widget/v1/-/CLbIf-Jh" width="100%" height="400" frameborder="1" allowfullscreen="true" style="position:relative;"></iframe>',
+        description: 'Больничный комплекс',
+        images:[
+          {
+            url: require('../assets/images/65/1.jpg'),
+            source: 'https://pastvu.com/p/1417972'
+          },
+        ],
+        comments:[]
+      },
+      {
+        id: 66,
+        title: 'Больничный комплекс',
+        mapUrl: '<iframe src="https://yandex.ru/map-widget/v1/-/CLbIf-Jh" width="100%" height="400" frameborder="1" allowfullscreen="true" style="position:relative;"></iframe>',
+        description: '',
+        images:[
+          {
+            url: require('../assets/images/66/1.jpg'),
+            source: 'https://pastvu.com/p/1417972'
+          },
+        ],
+        comments:[]
+      },
+      {
+        id: 67,
+        title: 'ул. Железнодорожная 8А',
+        mapUrl: '<iframe src="https://yandex.ru/map-widget/v1/-/CLbIrIo6" width="100%" height="400" frameborder="1" allowfullscreen="true" style="position:relative;"></iframe>',
+        description: 'Больничный комплекс',
+        images:[
+          {
+            url: require('../assets/images/67/1.jpg'),
+            source: 'https://pastvu.com/p/1417972'
+          },
+        ],
+        comments:[]
+      },
     ]
   },
   mutations: {
